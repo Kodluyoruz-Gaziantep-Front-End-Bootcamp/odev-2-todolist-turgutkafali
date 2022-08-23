@@ -1,5 +1,6 @@
 # WEEK-2 Homework React.js To-Do App
 
+![last](https://user-images.githubusercontent.com/87151960/186253402-3ab34fc0-e9f9-441b-8498-7c5453de0eca.gif)
 
 # HOMEWORK DESCRİPTİON:
 
